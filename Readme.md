@@ -1,22 +1,25 @@
-Source using botzu and mario translation then, i use auto translation program
-maybe little bit weird coz it's indonesian translation LOL.
+# Indonesian Translation
 
-If need correction just tell me, i'll do it ASAP
+Translated using Botzu and Mario's translation as the source.
 
-Big thanks to botzu and mario OwOb.
+I used an auto-translation program, so it might be a bit weird — it's an Indonesian translation, LOL.
 
-How to install ?
+If it needs correction, just let me know and I'll fix it ASAP.
 
-1. Backup **LangPackageTableCnData.bytes** in folder
+Big thanks to Botzu and Mario OwO.
 
-`bilibili Game
-└─  GF2_Exilium
-    └─  Games
-        └─  GF2_Exilium_Data
-            └─  LocalCache
-                └─  Data
-                    └─ Table
-                        └─ LangPackageTableCnData.bytes`
+## How to Install
 
-2. Replace it with Indonesian translation
-3. Done
+1. Backup **LangPackageTableCnData.bytes** in this folder:
+
+bilibili Game
+└─ GF2_Exilium
+└─ Games
+└─ GF2_Exilium_Data
+└─ LocalCache
+└─ Data
+└─ Table
+└─ LangPackageTableCnData.bytes
+
+2. Replace it with the Indonesian translation file.
+3. Done!
