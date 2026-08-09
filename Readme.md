@@ -26,5 +26,4 @@ bilibili Game
 2. Replace it with the Indonesian translation file.
 3. Done!
 
-![GitHub last commit](https://img.shields.io/github/last-commit/arsharsene/Gadis-Garis-Depan-2-Exillium)
-![GitHub All Releases](https://img.shields.io/github/downloads/arsharsene/Gadis-Garis-Depan-2-Exillium/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/arsharsene/Gadis-Garis-Depan-2-Exillium/blob/main/LangPackageTableCnData.bytes)
