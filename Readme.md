@@ -9,14 +9,14 @@ How to install ?
 
 1. Backup **LangPackageTableCnData.bytes** in folder
 
-`:open_file_folder: bilibili Game
-└─ :open_file_folder: GF2_Exilium
-    └─ :open_file_folder: Games
-        └─ :open_file_folder: GF2_Exilium_Data
-            └─ :open_file_folder: LocalCache
-                └─ :open_file_folder: Data
-                    └─ :open_file_folder: Table
-                        └─ :page_facing_up: LangPackageTableCnData.bytes`
+`bilibili Game
+└─  GF2_Exilium
+    └─  Games
+        └─  GF2_Exilium_Data
+            └─  LocalCache
+                └─  Data
+                    └─ Table
+                        └─ LangPackageTableCnData.bytes`
 
 2. Replace it with Indonesian translation
 3. Done
