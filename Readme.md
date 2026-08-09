@@ -12,6 +12,7 @@ Big thanks to Botzu and Mario OwO.
 
 1. Backup **LangPackageTableCnData.bytes** in this folder:
 
+```
 bilibili Game
 └─ GF2_Exilium
 └─ Games
@@ -20,6 +21,7 @@ bilibili Game
 └─ Data
 └─ Table
 └─ LangPackageTableCnData.bytes
+```
 
 2. Replace it with the Indonesian translation file.
 3. Done!
